@@ -1,0 +1,7 @@
+Pillow
+psutil
+requests
+yagmail
+keyboard
+nudenet
+pyinstaller
